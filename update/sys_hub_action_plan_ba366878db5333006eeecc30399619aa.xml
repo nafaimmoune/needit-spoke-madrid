@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_plan">
+    <sys_hub_action_plan action="INSERT_OR_UPDATE">
+        <action_id display_value="Get Days Ago Date">abd424f0db5333006eeecc3039961901</action_id>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"ba366878db5333006eeecc30399619aa","name":"plan"}}</plan>
+        <snapshot>6e366878db5333006eeecc303996195d</snapshot>
+        <sys_class_name>sys_hub_action_plan</sys_class_name>
+        <sys_created_by>nafa.immoune</sys_created_by>
+        <sys_created_on>2019-08-13 14:53:50</sys_created_on>
+        <sys_id>ba366878db5333006eeecc30399619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>abd424f0db5333006eeecc3039961901</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_378111_needit_sp">abd54434db1333006eeecc30399619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">abd54434db1333006eeecc30399619b3</sys_scope>
+        <sys_update_name>sys_hub_action_plan_ba366878db5333006eeecc30399619aa</sys_update_name>
+        <sys_updated_by>nafa.immoune</sys_updated_by>
+        <sys_updated_on>2019-08-13 14:53:50</sys_updated_on>
+    </sys_hub_action_plan>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Days Ago Date">abd424f0db5333006eeecc3039961901</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">1c07c034db1333006eeecc3039961907</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>nafa.immoune</sys_created_by>
+        <sys_created_on>2019-08-13 14:49:36</sys_created_on>
+        <sys_id>3c45ec38db5333006eeecc3039961907</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_378111_needit_sp">abd54434db1333006eeecc30399619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">abd54434db1333006eeecc30399619b3</sys_scope>
+        <sys_update_name>sys_hub_action_instance_3c45ec38db5333006eeecc3039961907</sys_update_name>
+        <sys_updated_by>nafa.immoune</sys_updated_by>
+        <sys_updated_on>2019-08-13 15:44:00</sys_updated_on>
+        <ui_id>821bb26e-6933-4a1a-9ab8-954145979edd</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=3c45ec38db5333006eeecc3039961907"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>3c45ec38db5333006eeecc3039961907</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nafa.immoune</sys_created_by>
+        <sys_created_on>2019-08-13 14:52:39</sys_created_on>
+        <sys_id>15f5a478db5333006eeecc3039961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nafa.immoune</sys_updated_by>
+        <sys_updated_on>2019-08-13 14:52:39</sys_updated_on>
+        <value>12</value>
+        <variable display_value="">bcc52478db5333006eeecc3039961960</variable>
+    </sys_variable_value>
+</record_update>

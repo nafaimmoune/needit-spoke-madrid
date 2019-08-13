@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_trigger_auto_script">
+    <sys_flow_trigger_auto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>Trigger:b274a438db5333006eeecc3039961962</name>
+        <run_as display_value="nafa immoune">1adab901dbe633006eeecc303996192a</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek/>
+        <run_period/>
+        <run_start>2019-08-15 23:05:00</run_start>
+        <run_time/>
+        <run_type>once</run_type>
+        <script><![CDATA[sn_flow_trigger.FlowTriggerAPI.fireTimerTrigger('b274a438db5333006eeecc3039961962');]]></script>
+        <sys_class_name>sys_flow_trigger_auto_script</sys_class_name>
+        <sys_created_by>nafa.immoune</sys_created_by>
+        <sys_created_on>2019-08-13 14:46:12</sys_created_on>
+        <sys_id>f674a438db5333006eeecc3039961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Trigger:b274a438db5333006eeecc3039961962</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_378111_needit_sp">abd54434db1333006eeecc30399619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">abd54434db1333006eeecc30399619b3</sys_scope>
+        <sys_update_name>sys_flow_trigger_auto_script_f674a438db5333006eeecc3039961962</sys_update_name>
+        <sys_updated_by>nafa.immoune</sys_updated_by>
+        <sys_updated_on>2019-08-13 14:46:12</sys_updated_on>
+        <trigger display_value="">b274a438db5333006eeecc3039961962</trigger>
+        <upgrade_safe>false</upgrade_safe>
+    </sys_flow_trigger_auto_script>
+</record_update>
